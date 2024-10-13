@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@angular/animations": "^18.2.8",
+    "bootstrap": "^5.3.3",
+    "font-awesome": "^4.7.0",
+    "ngx-toastr": "^19.0.0"
+  }
+}
